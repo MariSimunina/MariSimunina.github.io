@@ -1,23 +1,22 @@
 ---
 layout: page
 title: О себе
-permalink: /about/
 ---
-Меня зовут # Симунина Мария #  
+Меня зовут __Симунина Мария__  
 * * * * *  
-[](https://cs5.pikabu.ru/post_img/big/2015/05/15/4/1431663901_1246519565.jpg "Студенты")  
+![](https://avatars.mds.yandex.net/get-zen_doc/98844/pub_5a6194fcad0f22d589fc73a9_5a6195793c50f7e00ed02f04/scale_1200 "Студенты")  
 _Коротко о себе:_  
 * Студентка СарФТИ НИЯУ МИФИ;  
 * В 2018 году закончила бакалавриат по специальности "Прикладная математика и информатика";    
 * В 2014 году закончила Дивеевскую СОШ;   
 * На данный момент учусь в магистратуре.  
-[](https://ss.metronews.ru/userfiles/materials/88/883727/858x540.jpg "Магистр")
+![](http://i.pipec.info/20171217/92959819441026_8886.jpg "Магистр")
 
 * * * * *  
 >"Студент — это человек, который вечно хочет спать и есть."  
-[](https://nyamkin.ru/sites/default/files/sovet/photo/koshke-ochen-ploho.jpg "Кот и Сон")  
+![](https://nyamkin.ru/sites/default/files/sovet/photo/koshke-ochen-ploho.jpg "Кот и Сон")  
 
 * * * * *  
 >"Общежитие — это обучение жизни по ускоренной программе."  
-[](C:\Users\DNS!\Desktop\kot_kniga_ochki_71986_1920x1200.jpg "Кот с книгой")  
+![](https://images.wallpaperscraft.ru/image/kot_kniga_ochki_71986_1920x1200.jpg "Кот с книгой")  
 * * * * *  

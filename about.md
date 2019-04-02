@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: О себе
 permalink: /about/
 ---
+Меня зовут # Симунина Мария #  
+* * * * *  
+[](https://cs5.pikabu.ru/post_img/big/2015/05/15/4/1431663901_1246519565.jpg "Студенты")  
+_Коротко о себе:_  
+* Студентка СарФТИ НИЯУ МИФИ;  
+* В 2018 году закончила бакалавриат по специальности "Прикладная математика и информатика";    
+* В 2014 году закончила Дивеевскую СОШ;   
+* На данный момент учусь в магистратуре.  
+[](https://ss.metronews.ru/userfiles/materials/88/883727/858x540.jpg "Магистр")
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* * * * *  
+>"Студент — это человек, который вечно хочет спать и есть."  
+[](https://nyamkin.ru/sites/default/files/sovet/photo/koshke-ochen-ploho.jpg "Кот и Сон")  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* * * * *  
+>"Общежитие — это обучение жизни по ускоренной программе."  
+[](C:\Users\DNS!\Desktop\kot_kniga_ochki_71986_1920x1200.jpg "Кот с книгой")  
+* * * * *  
